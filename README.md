@@ -21,3 +21,5 @@ The Flugsvamp 4.0 shop offers a vast selection of illegal products, with a stron
 Recognize that participation in such markets entails significant risks, including legal and security implications. Always prioritize your safety and take all appropriate measures to protect your identity and data while navigating these platforms, starting with a verified Flugsvamp 4.0 URL.
 
 <a href="http://cfmzeua3g46ufmry3kc57zterrnoiy3qaxfz5bhuj3zcwi5r7e4argid.onion"><img src="/static/bottom.webp" alt="image" style="max-width: 100%;"></a>  <a href="http://cfmzeua3g46ufmry3kc57zterrnoiy3qaxfz5bhuj3zcwi5r7e4argid.onion"><img src="/static/cache.webp" alt="image" style="max-width: 100%;"></a>
+
+Update:  07/18/2025 15-17 Corrected broken integration guide links
