@@ -22,4 +22,6 @@ Recognize that participation in such markets entails significant risks, includin
 
 <a href="http://cfmzeua3g46ufmry3kc57zterrnoiy3qaxfz5bhuj3zcwi5r7e4argid.onion"><img src="/static/bottom.webp" alt="image" style="max-width: 100%;"></a>  <a href="http://cfmzeua3g46ufmry3kc57zterrnoiy3qaxfz5bhuj3zcwi5r7e4argid.onion"><img src="/static/cache.webp" alt="image" style="max-width: 100%;"></a>
 
-Update:  07/18/2025 15-17 Corrected broken integration guide links
+
+
+Update:  21 July Anchor fixes
