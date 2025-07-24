@@ -24,4 +24,6 @@ Recognize that participation in such markets entails significant risks, includin
 
 
 
-Update:  21 July Anchor fixes
+
+
+Update: link updated and working
