@@ -26,4 +26,6 @@ Recognize that participation in such markets entails significant risks, includin
 
 
 
-Update: link updated and working
+
+
+Update:  04 August link is back online and live
