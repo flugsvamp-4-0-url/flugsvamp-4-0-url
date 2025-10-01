@@ -40,4 +40,6 @@ Recognize that participation in such markets entails significant risks, includin
 
 
 
-Update:  09/18/2025 link is back up
+
+
+Update:  01 October 2025
